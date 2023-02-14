@@ -72,7 +72,7 @@ namespace exercicio{
             ArrayList numeros = new ArrayList();
             String line;
             while ((line = sr.ReadLine()) != null) {
-                numeros.add(Int32.Parse(sr.ReadLine()));
+                numeros.Add(Int32.Parse(sr.ReadLine()));
             }
             sr.Close();
             return numeros;
@@ -93,8 +93,8 @@ namespace exercicio{
         // delcarando e instanciando o BufferedWriter para escrever no arquivo
         StreamWriter sw = new StreamWriter(path);
         for (int i = 0; i < numeros.Count(); i++) {
-            writer.write(string.valueOf(numeros[i])); // escrevendo no arquivo
-            writer.write("\n"); // quebra de linha
+            sw.WriteLine(numeros[i].ToString()); // escrevendo no arquivo
+            sw.WriteLine("\n"); // quebra de linha
         }
         sw.Close(); // fechando o bufferedWriter
         }
