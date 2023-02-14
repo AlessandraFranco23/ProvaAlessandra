@@ -3,3 +3,13 @@ C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessand
 C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.AssemblyInfoInputs.cache
 C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.AssemblyInfo.cs
 C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\bin\Debug\net7.0\ProvaAlessandra.exe
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\bin\Debug\net7.0\ProvaAlessandra.deps.json
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\bin\Debug\net7.0\ProvaAlessandra.runtimeconfig.json
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\bin\Debug\net7.0\ProvaAlessandra.dll
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\bin\Debug\net7.0\ProvaAlessandra.pdb
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.dll
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\refint\ProvaAlessandra.dll
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.pdb
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.genruntimeconfig.cache
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ref\ProvaAlessandra.dll

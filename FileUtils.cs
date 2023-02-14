@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
+
 
 namespace exercicio{
     public class FileUtils {
@@ -69,7 +68,7 @@ namespace exercicio{
         try {
 
             StreamReader sr = new StreamReader(path);
-            ArrayList numeros = new ArrayList();
+            List<int> numeros = new List<int>();
             String line;
             while ((line = sr.ReadLine()) != null) {
                 numeros.Add(Int32.Parse(sr.ReadLine()));
@@ -78,25 +77,20 @@ namespace exercicio{
             return numeros;
         } catch (Exception e) {
             Console.WriteLine(e.Message);
-            return Collections.emptyList();
+            return new List<int>();
         }
     }
 
     public void writeDocument(List<int> numeros)  { //throws IOException
-        // buscando o aquivo
-        File file = new File ("list_ordenado.txt"); 
-        // caso o arquivo exista ele apaga
-        if (file.exists()) {
-            file.delete(); // apagando o arquivo
+        if (File.Exists("ordenado.txt")) {
+            File.Delete("ordenado.txt"); // apagando o arquivo
         }
-
-        // delcarando e instanciando o BufferedWriter para escrever no arquivo
-        StreamWriter sw = new StreamWriter(path);
+        StreamWriter sw = new StreamWriter("list_ordenado.txt");
         for (int i = 0; i < numeros.Count(); i++) {
             sw.WriteLine(numeros[i].ToString()); // escrevendo no arquivo
             sw.WriteLine("\n"); // quebra de linha
         }
-        sw.Close(); // fechando o bufferedWriter
+        sw.Close(); 
         }
     }
 }
