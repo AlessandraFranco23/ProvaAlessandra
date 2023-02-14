@@ -1,0 +1,5 @@
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.csproj.AssemblyReference.cache
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.AssemblyInfoInputs.cache
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.AssemblyInfo.cs
+C:\Users\Alessandra\Documents\Desenolvimento_Desktop\Prova_Jackson\ProvaAlessandra\obj\Debug\net7.0\ProvaAlessandra.csproj.CoreCompileInputs.cache
