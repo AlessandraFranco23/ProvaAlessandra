@@ -35,10 +35,10 @@ namespace exercicio{
                  * Se a comparação da posição atual com a proxima posição for maior que 0
                  * ou seja, os valores não forem iguais
                  */
-                if (list.[i]== list[i+1]) {
+                if (list[i]== list[i+1]) {
                     temp = list[i];
-                    list[i, list[i + 1]];
-                    list[i + 1, temp];
+                    list[i] = list[i + 1];
+                    list[i + 1] = temp;
                     Console.WriteLine("posicao inicial: " + x + " ordenador: " + i + ": " + list[i]);
                 }
             }
